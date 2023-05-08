@@ -1,4 +1,5 @@
-const baseUrl = 'http://54..198.38.17';
+var baseUrl = 'http://54.198.38.17:5005';
+
 const url = baseUrl + '/dynamicArt/getEmotionPercentages/';
 
 
